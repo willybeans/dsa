@@ -1,5 +1,4 @@
 function binarySearch(arr, target) {
-	let index = 0;
 	let left = 0;
 	let right = arr.length - 1;
 	let guess;
